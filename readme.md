@@ -83,8 +83,3 @@ Partial measurements involve measuring only a part of a composite quantum system
 
 ---
 
-This README.md file provides a summary of my quantum computing learning journey, highlighting the key concepts and practical implementations I've encountered. This project marks the beginning of my exploration into the exciting and rapidly evolving field of quantum computing. 
-
-Feel free to explore the code examples and materials provided in this repository!
-
---- 
