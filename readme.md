@@ -81,5 +81,21 @@ Tensor products are used to describe the combined state of multiple quantum syst
 
 Partial measurements involve measuring only a part of a composite quantum system. I learned how this affects the overall system and how to use partial measurements to extract information without fully collapsing the system's state.
 
+
+
+## License
+
+This repository, **quantum_computer_resource**, is licensed under the Apache License, Version 2.0. You may not use this project except in compliance with the License.
+
+You can view the full license in the [LICENSE](LICENSE) file or at:
+
+[Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+
+### Why License is Important?
+
+Public repositories on GitHub are often used to share open source software. By adding this license, others are free to use, change, and distribute the software, following the terms of the Apache 2.0 License.
+
+For more information on open source licenses, see [ChooseALicense.com](https://choosealicense.com).
+
 ---
 
